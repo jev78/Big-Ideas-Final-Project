@@ -1,4 +1,4 @@
-Team Name: LeBron Enjoyers
+Team Name: Understanding Pittsburgh
 
 Team Members + Email Adress:
   - Matthew Caputo: MCC212@pitt.edu
