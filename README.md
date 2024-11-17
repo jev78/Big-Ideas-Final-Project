@@ -11,12 +11,10 @@ Datasets Used (links) + Descriptions:
   - Field Listings (Baseball):
     - Link: https://data.wprdc.org/dataset/field-listings
     - Description: Listing of all baseball fields within the City of Pittsburgh
-  - Grow Pittsburgh Food Gardens:
-    - Link: https://data.wprdc.org/dataset/grow-pittsburgh-food-gardens
-    - Description: Food growing locations registered with Grow Pittsburgh.
-                   Data includes community gardens, community farms, schoolyard
-                   gardens, or urban farms. This data is included in Grow Pittsburgh's Grower's Map
-
+  - Fire Incidents in City of Pittsburgh:
+    - Link: https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
+    - Description: Incidents of fire responded to by the Pittsburgh Bureau of Fire.
+  
 One Sentence Overview: Our repository utilizes three datasets that provide us with metrics we have created to help us find the best neighborhood in the City of Pittsburgh by 
 combining the sub-metrics into a larger one.
     
