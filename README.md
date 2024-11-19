@@ -17,4 +17,6 @@ Datasets Used (links) + Descriptions:
   
 One Sentence Overview: Our repository utilizes three datasets that provide us with metrics we have created to help us find the best neighborhood in the City of Pittsburgh by 
 combining the sub-metrics into a larger one.
+
+Note: We were having issues when pushing to git from Joey'c computer but it should have worked.  Please let us know if there are any issues with the commit/adding of the fire incident data
     
